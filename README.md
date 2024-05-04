@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seunghun Lee_CODE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seunghun Lee's GIT&fontSize=90)
+
 ### 👋 I'm Seunghun Lee
 
 #### RO:BIT 17th Intelligence Robot Team Leader
