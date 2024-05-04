@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Seunghun%Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=Seunghun%Lee&fontSize=90)
 
 ### 👋 I'm Seunghun Lee
 
