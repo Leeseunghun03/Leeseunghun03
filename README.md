@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=Seunghun%20Lee's%20Git&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=Seunghun%20Lee's%20Github&fontSize=90)
 
 ### 👋 I'm Seunghun Lee, Robotics Developer
 
