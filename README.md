@@ -6,4 +6,4 @@
 
 - 🔭 I’m work at ROBIT, Kwangwoon University(Seoul, South Korea)
 - 🌱 I’m currently learning SLAM, Computer Vision, Sensor Fusion, ROS
-- 📫 How to reach me: fire3577@naver.com
+- 📫 How to reach me: shleee@kaist.ac.kr
