@@ -5,8 +5,6 @@
 
 ### 🎓 Robotics Researcher & M.S. Student @ KAIST
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Leeseunghun03&color=blue&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Leeseunghun03)
-
 ---
 
 ### 🔍 Research Interests
@@ -43,13 +41,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leeseunghun03&show_icons=true&theme=transparent&hide_border=true&title_color=3382ed&icon_color=3382ed&text_color=ffffff" alt="Seunghun's GitHub Stats" />
 </p>
 
 ---
