@@ -8,7 +8,7 @@
 ---
 
 ### 🔍 Research Interests
-**Visual SLAM • 3D Reconstruction • Deep Learning • Navigation**
+**Visual SLAM • 3D Reconstruction • Sensor Fusion • Deep Learning • Gaussian Splatting • Event based Vision**
 <br>
 
 ---
