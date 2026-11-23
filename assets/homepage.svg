@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="240" height="44" viewBox="0 0 240 44" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="36" viewBox="0 0 208 36" role="img" aria-labelledby="title">
   <title id="title">Academic Homepage</title>
-  <rect width="240" height="44" rx="8" fill="#77ddc4"/>
+  <rect width="208" height="36" rx="7" fill="#77ddc4"/>
   <g fill="none" stroke="#142c29" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="25" cy="22" r="8.5"/>
-    <ellipse cx="25" cy="22" rx="3.5" ry="8.5"/>
-    <path d="M16.5 22h17"/>
-    <path d="M212 27l9-9m-7 0h7v7"/>
+    <circle cx="21" cy="18" r="7.5"/>
+    <ellipse cx="21" cy="18" rx="3" ry="7.5"/>
+    <path d="M13.5 18h15"/>
+    <path d="M184 22l7-7m-5 0h5v5"/>
   </g>
-  <text x="46" y="27.2" fill="#142c29" font-family="Arial, sans-serif" font-size="15" font-weight="600">Academic Homepage</text>
+  <text x="37" y="22.8" fill="#142c29" font-family="Arial, sans-serif" font-size="14" font-weight="600">Academic Homepage</text>
 </svg>
