@@ -1,59 +1,60 @@
 <div align="center">
 
-<!-- Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Seunghun%20Lee&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+# Seunghun Lee
 
-### 🎓 Robotics Researcher & M.S. Student @ KAIST
+**🎓 M.S. Student in Robotics · KAIST**
 
----
+[Urban Robotics Lab](https://urobot.kaist.ac.kr/)
 
-### 🔍 Research Interests
-**Visual SLAM • 3D Reconstruction • Deep Learning • Gaussian Splatting • Event based Vision**
-<br>
-
----
-
-### 🛠 Tech Stack
-
-#### 💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white"/>
-</p>
-
-#### 🤖 Robotics & SLAM
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ceres_Solver-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eigen-D00000?style=flat-square"/>
-</p>
-
-#### 🧠 AI & Deep Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-</p>
-
-#### 🔧 Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-
----
-
-### 📫 Connect with me
-<p align="center">
-  <a href="mailto:shleee@kaist.ac.kr">
-    <img src="https://img.shields.io/badge/KAIST-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="KAIST Email" />
+<p>
+  <a href="https://leeseunghun03.github.io/">
+    <img src="https://img.shields.io/badge/Academic_Homepage-1c3533?style=flat-square&amp;logo=githubpages&amp;logoColor=77ddc4" alt="Academic homepage — publications, research, and CV" />
   </a>
-  &nbsp;
-  <a href="mailto:lsh12070420@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:shleee@kaist.ac.kr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email: shleee@kaist.ac.kr" />
+  </a>
+  <a href="https://www.linkedin.com/in/seunghun-lee-626560387/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" />
   </a>
 </p>
 
 </div>
+
+## 🔍 Research Interests
+
+- Visual–Inertial SLAM / Odometry & Multi-Modal State Estimation
+- Autonomous Navigation
+
+## 🛠 Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
+</p>
+
+**Robotics & SLAM**
+
+<p>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&amp;logo=ros&amp;logoColor=white" alt="ROS" />
+  <img src="https://img.shields.io/badge/Ceres_Solver-4285F4?style=flat-square" alt="Ceres Solver" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Eigen-D00000?style=flat-square" alt="Eigen" />
+</p>
+
+**Learning**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+</p>
