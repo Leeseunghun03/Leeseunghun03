@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="28" viewBox="0 0 100 28" role="img" aria-labelledby="title">
+  <title id="title">LinkedIn</title>
+  <style>
+    .frame { stroke: #cbd5df; }
+    .label, .mark { fill: #52637a; }
+    .inverse { fill: white; }
+    @media (prefers-color-scheme: dark) {
+      .frame { stroke: #364350; }
+      .label, .mark { fill: #b4c0cf; }
+      .inverse { fill: #0d1117; }
+    }
+  </style>
+  <rect class="frame" x=".5" y=".5" width="99" height="27" rx="6" fill="none"/>
+  <rect class="mark" x="10" y="7" width="14" height="14" rx="2"/>
+  <text class="inverse" x="17" y="17.8" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700">in</text>
+  <text class="label" x="32" y="18.5" font-family="Arial, sans-serif" font-size="13">LinkedIn</text>
+</svg>

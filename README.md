@@ -6,20 +6,14 @@
 
 [Urban Robotics Lab](https://urobot.kaist.ac.kr/)
 
-<h3>
-  <a href="https://leeseunghun03.github.io/">
-    🌐 Academic Homepage ↗<br>
-    <sub>leeseunghun03.github.io</sub>
-  </a>
-</h3>
+<p>
+  <a href="https://leeseunghun03.github.io/"><img src="assets/homepage.svg" width="240" height="44" alt="Academic Homepage" /></a>
+</p>
 
 <p>
-  <a href="mailto:shleee@kaist.ac.kr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email: shleee@kaist.ac.kr" />
-  </a>
-  <a href="https://www.linkedin.com/in/seunghun-lee-626560387/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" />
-  </a>
+  <a href="mailto:shleee@kaist.ac.kr"><img src="assets/email.svg" width="82" height="28" alt="Email: shleee@kaist.ac.kr" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/seunghun-lee-626560387/"><img src="assets/linkedin.svg" width="100" height="28" alt="LinkedIn" /></a>
 </p>
 
 </div>
